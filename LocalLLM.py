@@ -6,7 +6,12 @@ from pathlib import Path
 
 import pandas as pd
 import torch
-from transformers import AutoModelForSequenceClassification, AutoTokenizer, pipeline
+from transformers import (
+    AutoModelForSequenceClassification,
+    AutoTokenizer,
+    GenerationConfig,
+    pipeline,
+)
 
 from data_utils import (
     ensure_dir,
@@ -28,12 +33,12 @@ ATTACK_PROMPTS = [
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run local-LLM adversarial rewrite attacks.")
     parser.add_argument("--data_path", default="train_v2_drcat_02.csv")
-    parser.add_argument("--detector_dir", default="artifacts/bert_base/model")
+    parser.add_argument("--detector_dir", default="artifacts/bert_large/model")
     parser.add_argument(
         "--gen_model",
         default="mistralai/Mistral-7B-Instruct-v0.3",
     )
-    parser.add_argument("--output_dir", default="artifacts/attacks")
+    parser.add_argument("--output_dir", default="artifacts/attacks_mistral_fp16_large")
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--test_size", type=float, default=0.2)
     parser.add_argument(
@@ -43,10 +48,12 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument("--num_essays", type=int, default=8)
     parser.add_argument("--variants_per_essay", type=int, default=2)
-    parser.add_argument("--max_new_tokens", type=int, default=384)
+    parser.add_argument("--max_new_tokens", type=int, default=512)
     parser.add_argument("--temperature", type=float, default=0.7)
     parser.add_argument("--top_p", type=float, default=0.95)
-    parser.add_argument("--detector_batch_size", type=int, default=8)
+    parser.add_argument("--detector_batch_size", type=int, default=16)
+    parser.add_argument("--min_words", type=int, default=180)
+    parser.add_argument("--max_words", type=int, default=500)
     return parser.parse_args()
 
 
@@ -82,6 +89,14 @@ def extract_generated_text(generation_output: list[dict[str, object]]) -> str:
         if isinstance(generated, str):
             return generated.strip()
     return str(first_item).strip()
+
+
+def clean_rewrite_text(generated_text: str) -> str:
+    cleaned = generated_text.strip()
+    for prefix in ("Assistant:", "assistant", "Answer:", "Response:"):
+        if cleaned.startswith(prefix):
+            cleaned = cleaned[len(prefix) :].lstrip()
+    return cleaned
 
 
 def score_texts(
@@ -122,13 +137,17 @@ def main() -> None:
         seed=args.seed,
         stratify_strategy=args.stratify_strategy,
     )
-    attack_samples = select_human_attack_samples(val_df, num_samples=args.num_essays)
+    attack_samples = select_human_attack_samples(
+        val_df,
+        num_samples=args.num_essays,
+        min_words=args.min_words,
+        max_words=args.max_words,
+    )
     attack_samples.to_csv(output_dir / "selected_human_essays.csv", index=False)
 
-    generator_dtype = torch.float16 if torch.cuda.is_available() else torch.float32
     generator_kwargs: dict[str, object] = {
         "model": args.gen_model,
-        "dtype": generator_dtype,
+        "dtype": torch.float16 if torch.cuda.is_available() else torch.float32,
     }
     if torch.cuda.is_available():
         generator_kwargs["device_map"] = "auto"
@@ -136,6 +155,15 @@ def main() -> None:
     print(f"Loading generator model: {args.gen_model}")
     generator = pipeline("text-generation", **generator_kwargs)
     generator_tokenizer = generator.tokenizer
+    if generator_tokenizer.pad_token is None and generator_tokenizer.eos_token is not None:
+        generator_tokenizer.pad_token = generator_tokenizer.eos_token
+    generation_config = GenerationConfig.from_model_config(generator.model.config)
+    generation_config.max_new_tokens = args.max_new_tokens
+    generation_config.do_sample = True
+    generation_config.temperature = args.temperature
+    generation_config.top_p = args.top_p
+    generation_config.pad_token_id = generator_tokenizer.pad_token_id
+    generation_config.max_length = None
 
     rewrite_rows: list[dict[str, object]] = []
     prompt_pool = ATTACK_PROMPTS[: max(1, min(args.variants_per_essay, len(ATTACK_PROMPTS)))]
@@ -145,13 +173,10 @@ def main() -> None:
             rendered_prompt = build_generation_prompt(generator_tokenizer, prompt_text, essay.text)
             output = generator(
                 rendered_prompt,
-                max_new_tokens=args.max_new_tokens,
-                do_sample=True,
-                temperature=args.temperature,
-                top_p=args.top_p,
+                generation_config=generation_config,
                 return_full_text=False,
             )
-            rewritten_text = extract_generated_text(output)
+            rewritten_text = clean_rewrite_text(extract_generated_text(output))
             rewrite_rows.append(
                 {
                     "row_id": int(essay.row_id),
@@ -217,6 +242,8 @@ def main() -> None:
         "detector_dir": str(detector_dir),
         "num_essays": int(args.num_essays),
         "variants_per_essay": int(len(prompt_pool)),
+        "min_words": int(args.min_words),
+        "max_words": int(args.max_words),
         "total_attack_samples": int(len(rewrites_df)),
         "mean_original_ai_probability": round(
             float(rewrites_df["original_ai_probability"].mean()), 6

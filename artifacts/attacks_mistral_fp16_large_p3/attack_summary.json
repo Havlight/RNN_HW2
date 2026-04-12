@@ -1,0 +1,13 @@
+{
+  "generator_model": "mistralai/Mistral-7B-Instruct-v0.3",
+  "detector_dir": "artifacts\\bert_large\\model",
+  "num_essays": 8,
+  "variants_per_essay": 3,
+  "min_words": 180,
+  "max_words": 500,
+  "total_attack_samples": 24,
+  "mean_original_ai_probability": 0.000361,
+  "mean_rewritten_ai_probability": 0.961714,
+  "successful_fool_count": 1,
+  "successful_fool_rate": 0.041667
+}

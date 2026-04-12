@@ -1,0 +1,347 @@
+row_id,label,prompt_name,source,word_count,attack_prompt_id,attack_prompt,original_text,rewritten_text,rewritten_text_snippet,original_ai_probability,rewritten_ai_probability,rewritten_pred_label,fooled_or_not,delta_ai_probability
+11499,0,Facial action coding system,persuade_corpus,180,1,Rewrite the following essay so it sounds more natural and human-written.,"Having technology that can read your emotion it's okay and it can help people that don't have friends or don't have any body to talk to. If you need someone to talk to but you don't have anybody, than technology can help you with that problem. If the technology/computer can see your emotion than it can tell what's wrong with you and give you some answer's to you're problems in life. In the same time you should be carefull, because technology can maybe turn back on you and will want you to do something bad that never crossed your mind. If tecchnology is able to read your emotions it's okay but we should also be careful. In the same time that type of technology that is able to read your emotion it's amazing but power full too; because if you are trying to hide something from it, it can tell that you are lying to the computer and also that tecchnology can take peoples jobs. People in the world need their jobs for they can take care of the family.","The potential of technology that can read emotions is indeed intriguing, and it holds a promise of providing comfort and assistance to those who may feel isolated or lack someone to confide in. In such situations, technology could serve as a sympathetic ear, helping to alleviate feelings of loneliness and offering potential solutions to life's challenges.
+
+However, it's crucial to approach this technology with caution, as there are potential drawbacks to consider. For one, there's a risk that the technology could be manipulated or misused, perhaps leading us to make decisions we would not normally consider. Emotional AI, if not properly regulated, could potentially become a tool for exploitation rather than support.
+
+Moreover, the advancement of technology that can read emotions is undeniably powerful. While it offers numerous benefits, it also poses a threat to privacy, as it could potentially reveal secrets or hidden feelings that individuals may not want to share. Furthermore, there are concerns about job displacement, as this technology could potentially replace human roles in certain industries. People rely on their jobs not only for financial stability but also for a sense of purpose and personal growth.
+
+In conclusion, the development of technology that can read emotions is a fascinating and promising field. However, it's essential to proceed with caution, ensuring that it is used ethically and responsibly, and that the potential risks are properly addressed. The goal should be to harness this technology to improve our lives, rather than to exploit or undermine it.","The potential of technology that can read emotions is indeed intriguing, and it holds a promise of providing comfort and assistance to those who may feel isolated or lack someone to confide in. In such situations, technology could serve as ",3.43255807379052e-05,0.9999811297914468,1,False,0.9999468042107089
+11499,0,Facial action coding system,persuade_corpus,180,2,Rewrite this essay as if a high school student wrote it in their own words.,"Having technology that can read your emotion it's okay and it can help people that don't have friends or don't have any body to talk to. If you need someone to talk to but you don't have anybody, than technology can help you with that problem. If the technology/computer can see your emotion than it can tell what's wrong with you and give you some answer's to you're problems in life. In the same time you should be carefull, because technology can maybe turn back on you and will want you to do something bad that never crossed your mind. If tecchnology is able to read your emotions it's okay but we should also be careful. In the same time that type of technology that is able to read your emotion it's amazing but power full too; because if you are trying to hide something from it, it can tell that you are lying to the computer and also that tecchnology can take peoples jobs. People in the world need their jobs for they can take care of the family.","Emotional tech, like computers that can read your feelings, is a pretty cool idea, especially for those who might not have anyone to talk to or are feeling down. Imagine having a conversation with a machine that understands your emotions and provides helpful suggestions for your life problems. It's like having a friend who's always there for you, even when no one else is.
+
+However, we should use this technology with caution, because it could potentially turn against us. For example, it might manipulate us into doing things we wouldn't normally consider. After all, machines don't have feelings, so they might not understand the consequences of their actions.
+
+Emotional tech is fascinating, but it's also powerful. If it can read your emotions, it might be able to tell if you're hiding something from it. And if it's that smart, it could potentially replace human jobs, like counselors or therapists. People need jobs to support their families, so we have to think about the impact this technology could have on employment.
+
+In conclusion, emotional tech could be a game-changer, but we have to use it wisely. We should embrace the benefits it offers, like helping those who are lonely or providing emotional support, but also be cautious about potential risks, like privacy and job security. It's an exciting time for technology, but we have to make sure we're using it for good.","Emotional tech, like computers that can read your feelings, is a pretty cool idea, especially for those who might not have anyone to talk to or are feeling down. Imagine having a conversation with a machine that understands your emotions an",3.43255807379052e-05,0.9999899264767401,1,False,0.9999556008960022
+10485,0,Facial action coding system,persuade_corpus,225,1,Rewrite the following essay so it sounds more natural and human-written.,"Schools should use facial action coding system because its use full for school.
+
+One reason why schools should use facial action coding system because it can be use full for health classes. health classes effect how much your emotions affect your body for example if you're always depressed you'll have a chance that your body might suffer from something and you might have a hard time to bring your body to stay strong again after suffering from depression and if your always happy you won't have a problem.
+
+My Second reason why schools should use facial action coding because a day on a test. A day on a test you'll have a emotion that you don't wanna take it or just too lazy to do the test and might end up the person guessing all the problems and not even caring. The next day they would see there scores in the test and be embarassed because they got there score low.
+
+My Third reason why schools should use facial action coding because incase of a fight. People might be angry and might take there anger away on someone else and it could manage to start a fight that's why you can check on them and ask why are they angry and calm them down. You never know if that could happen so always be prepared.","Title: The Benefits of Implementing Facial Action Coding System in Schools
+
+There are several compelling reasons why schools should consider adopting the Facial Action Coding System (FACS).
+
+Firstly, FACS can be incredibly beneficial in health education. Emotions significantly impact our physical well-being. For instance, prolonged periods of depression can potentially lead to physical health issues, making it challenging to recover. Conversely, consistently positive emotions generally contribute to overall health and wellness. By teaching students to recognize and manage their emotions, schools can help foster a healthier student body.
+
+Secondly, FACS can be particularly useful during testing periods. Emotions such as anxiety, boredom, or laziness can significantly impact a student's performance. A student might guess answers out of frustration or disinterest, leading to lower scores and potential embarrassment. By using FACS, teachers can identify these emotions and provide support or motivation to help students perform better.
+
+Lastly, FACS can serve as a valuable tool in preventing conflicts. Anger or frustration can escalate into physical altercations. By recognizing these emotions early, teachers can intervene and de-escalate potential conflicts, fostering a safer and more harmonious learning environment. In a world where unpredictable events can occur, being prepared is crucial.
+
+In conclusion, the Facial Action Coding System offers numerous benefits for schools, including improved health, enhanced test performance, and conflict prevention. By incorporating FACS into their teaching methods, schools can create a more holistic learning environment that supports the emotional and physical well-being of their students.","Title: The Benefits of Implementing Facial Action Coding System in Schools
+
+There are several compelling reasons why schools should consider adopting the Facial Action Coding System (FACS).
+
+Firstly, FACS can be incredibly beneficial in hea",4.0433929260029254e-05,0.999989759970564,1,False,0.999949326041304
+10485,0,Facial action coding system,persuade_corpus,225,2,Rewrite this essay as if a high school student wrote it in their own words.,"Schools should use facial action coding system because its use full for school.
+
+One reason why schools should use facial action coding system because it can be use full for health classes. health classes effect how much your emotions affect your body for example if you're always depressed you'll have a chance that your body might suffer from something and you might have a hard time to bring your body to stay strong again after suffering from depression and if your always happy you won't have a problem.
+
+My Second reason why schools should use facial action coding because a day on a test. A day on a test you'll have a emotion that you don't wanna take it or just too lazy to do the test and might end up the person guessing all the problems and not even caring. The next day they would see there scores in the test and be embarassed because they got there score low.
+
+My Third reason why schools should use facial action coding because incase of a fight. People might be angry and might take there anger away on someone else and it could manage to start a fight that's why you can check on them and ask why are they angry and calm them down. You never know if that could happen so always be prepared.","Title: Why Schools Should Embrace Facial Action Coding System (FACS)
+
+Hey there! I'd like to talk about why I think schools should start using the Facial Action Coding System (FACS).
+
+First off, imagine if health classes could help us understand how our emotions impact our bodies better. For instance, if we're constantly feeling down, we might be more susceptible to health issues, and it could take a lot of effort to recover. But if we're usually happy, we'll probably be in better shape. FACS can help us recognize these emotions and their effects on our health.
+
+Secondly, let's think about test days. Sometimes, we might feel unmotivated or lazy and end up guessing answers instead of trying our best. The next day, we see our test scores and feel embarrassed because we didn't do well. FACS could help us identify these feelings and motivate us to give our all during tests.
+
+Lastly, and most importantly, FACS could help prevent fights. People can get angry, and if we don't address this anger, it could lead to a confrontation. By using FACS to identify when someone is upset, we can ask why and help them calm down before things escalate. It's better to be prepared and prevent a fight than to deal with the consequences later.
+
+In conclusion, FACS could be a powerful tool for schools. It can help us understand our health, motivate us during tests, and prevent conflicts. I think it's worth considering for our schools!","Title: Why Schools Should Embrace Facial Action Coding System (FACS)
+
+Hey there! I'd like to talk about why I think schools should start using the Facial Action Coding System (FACS).
+
+First off, imagine if health classes could help us under",4.0433929260029254e-05,0.9999908075542364,1,False,0.9999503736249764
+8612,0,Exploring Venus,persuade_corpus,268,1,Rewrite the following essay so it sounds more natural and human-written.,"In the article ""The Challenge of Exploring Venus"", the author believes that Venus is worthy of human research and time although the task poses multiple dangers. I stand by the authors claim because we would gain information on how our universe works, and how it was many millions of years ago. The article states that although Venus is sometimes ""around the corner"", humans have sent many unmanned spacecrafts to attempt to explore and learn about Venus as a planet. Those spacecraft have not survived landing for more than a couple of hours. This has discouraged humans enough that we have yet to send another spacecraft to Venus in over three decades.
+
+The challenges are very rough and will not be anywhere close to a easy task. First they have to get through a thick atmosphere almost consisting of 97% carbon dioxide. After the atmosphere, you will have to survive the clouds which consist of highly corrosive sulfuric acid. Then you would need to figure out how to help deal with its average surface temperature of over 800 degrees Fahrenheit making it the hottest surface temperature of any planet in out solar system.
+
+Next, you'll have to create something sturdy enough to withstand its atmospheric pressure which amost 90 times geater than Earth's. The geolocial features and weather such as volcanoes, earthquakes, and lightning strikes will also aid in ruining the journey.
+
+If we can overcome these obsticles we could learn much more about Venus's past, present, and future. The more knowledge we have will help to futher even more research and hopefully explore even more in our universe.","In the thought-provoking article ""The Challenge of Exploring Venus,"" the author advocates for human exploration of Venus despite the numerous hazards involved. I wholeheartedly agree with this perspective, as the potential insights we could gain about our universe and its history make the endeavor worthwhile.
+
+As the article points out, despite Venus appearing within our grasp, it has proven to be an elusive and hostile destination for human exploration. Numerous unmanned spacecraft have been sent to study Venus, but few have survived for more than a couple of hours upon landing. This lack of success has discouraged further missions, with the last manned spacecraft sent to Venus over three decades ago.
+
+The challenges posed by Venus are formidable and far from trivial. The first hurdle is navigating through its thick atmosphere, which is composed of almost 97% carbon dioxide. This is followed by the need to survive the corrosive sulfuric acid clouds that cover the planet. The surface temperature of over 800 degrees Fahrenheit, the highest of any planet in our solar system, also presents a significant obstacle.
+
+In addition to these challenges, we would need to create something sturdy enough to withstand Venus's atmospheric pressure, which is almost 90 times that of Earth's. The geological features and weather conditions, such as volcanoes, earthquakes, and lightning strikes, would further complicate the mission.
+
+If we can overcome these obstacles, we could gain valuable insights into Venus's past, present, and future. This knowledge would not only fuel further research but also potentially open up new avenues for exploration in our universe.
+
+In conclusion, while the challenges of exploring Venus are significant, the potential rewards make it a worthy endeavor. With perseverance and innovation, we may one day unlock the secrets of this enigmatic planet and expand our understanding of our universe.","In the thought-provoking article ""The Challenge of Exploring Venus,"" the author advocates for human exploration of Venus despite the numerous hazards involved. I wholeheartedly agree with this perspective, as the potential insights we could",7.372743427708609e-05,0.999987731357257,1,False,0.9999140039229799
+8612,0,Exploring Venus,persuade_corpus,268,2,Rewrite this essay as if a high school student wrote it in their own words.,"In the article ""The Challenge of Exploring Venus"", the author believes that Venus is worthy of human research and time although the task poses multiple dangers. I stand by the authors claim because we would gain information on how our universe works, and how it was many millions of years ago. The article states that although Venus is sometimes ""around the corner"", humans have sent many unmanned spacecrafts to attempt to explore and learn about Venus as a planet. Those spacecraft have not survived landing for more than a couple of hours. This has discouraged humans enough that we have yet to send another spacecraft to Venus in over three decades.
+
+The challenges are very rough and will not be anywhere close to a easy task. First they have to get through a thick atmosphere almost consisting of 97% carbon dioxide. After the atmosphere, you will have to survive the clouds which consist of highly corrosive sulfuric acid. Then you would need to figure out how to help deal with its average surface temperature of over 800 degrees Fahrenheit making it the hottest surface temperature of any planet in out solar system.
+
+Next, you'll have to create something sturdy enough to withstand its atmospheric pressure which amost 90 times geater than Earth's. The geolocial features and weather such as volcanoes, earthquakes, and lightning strikes will also aid in ruining the journey.
+
+If we can overcome these obsticles we could learn much more about Venus's past, present, and future. The more knowledge we have will help to futher even more research and hopefully explore even more in our universe.","Title: Why We Should Venture to Venus: Overcoming the Challenges for the Sake of Cosmic Discovery
+
+In the article ""The Challenge of Exploring Venus,"" the author argues that Venus is a fascinating planet worth investigating, despite the numerous risks involved. I wholeheartedly agree with this viewpoint because understanding Venus can provide insights into our universe and its history. The piece explains that Venus, though seemingly within reach, has been a challenging destination for space exploration. Despite sending numerous unmanned spacecraft to study it, none have successfully landed for more than a few hours. This has led to a significant gap in human space missions to Venus lasting over three decades.
+
+The challenges in exploring Venus are daunting and far from easy. First, spacecraft must navigate through a thick atmosphere, nearly 97% carbon dioxide. After surmounting the atmosphere, the spacecraft would need to endure the acidic Venusian clouds, composed of highly corrosive sulfuric acid. Then, there's the challenge of dealing with an average surface temperature of over 800 degrees Fahrenheit, making Venus the hottest planet in our solar system.
+
+Furthermore, spacecraft would have to withstand an atmospheric pressure almost 90 times greater than Earth's. Venus's geological features, such as volcanoes, earthquakes, and lightning strikes, add to the difficulty of the mission.
+
+However, if we can overcome these obstacles, we could learn a great deal about Venus's past, present, and future. Gaining more knowledge about Venus would fuel further research and potentially open doors to discovering more about our universe.
+
+In conclusion, despite the formidable challenges, venturing to Venus is an exciting opportunity to expand our understanding of the cosmos. Overcoming these obstacles would be a remarkable achievement in human space exploration, and the knowledge we could gain would be invaluable.","Title: Why We Should Venture to Venus: Overcoming the Challenges for the Sake of Cosmic Discovery
+
+In the article ""The Challenge of Exploring Venus,"" the author argues that Venus is a fascinating planet worth investigating, despite the nume",7.372743427708609e-05,0.9999892270230382,1,False,0.999915499588761
+5524,0,"""A Cowboy Who Rode the Waves""",persuade_corpus,308,1,Rewrite the following essay so it sounds more natural and human-written.,"If I were Luke Bomberger I would convince people to join the Seagoing Cowboys program.
+
+The reason you should join the Seagoing Cowboys program is because it's such an experince.
+
+When you are doing your job not only are you working, you are helping other people and it gives you that good feeling down inside. As you are doing you rounds or trips or whatever you want to call it is a great opertunity for a young boy or grown man to see alsorts of stuff, like different cultures and different countrys. Another reason is your an animal lover you got yourself a job but remember one thing you do need to be strong and tuff. If you are worried about being board trust me we have loads of stuff to help you pass time some of the stuff includes, Table tennis,fencing,boxing,reading,whittling,and games so you dont half to worried about being bored.
+
+There are some great dangers about being on sea. On my second trip I served as a watchman . My jod was to check on all the animals every hour. One rainy night I was makeing my hourly report to the captin and I slid down the slipery ladder and landed on my back side. I was happey to be alive. The one problem was that I couldn't work for a couple of days because of cracked ribs. You shouldent have that problem.
+
+Well thats realy all I can say. Yes I agree it dose have its downfalls but thers more good things than bad I can personley tell you that. It realy helped me open my mind to the world. It helped me understand the problems other countries were facing and I realy hope it helps you open up your mind. With all my information I hope to see you at sea helping the animals.            ","If I were in Luke Bomberger's shoes, I would passionately advocate for joining the Seagoing Cowboys program. Here's why:
+
+This program offers an exceptional experience that goes beyond just a job. As a Seagoing Cowboy, you're not merely working; you're making a difference in people's lives, and that feeling of doing something meaningful is truly rewarding.
+
+Moreover, this role provides a unique opportunity for a young boy or grown man to immerse themselves in diverse cultures and countries. You'll encounter people, traditions, and landscapes that you might never have the chance to experience otherwise.
+
+For animal lovers, this job is a dream come true. However, it requires strength and resilience, as the work can be physically demanding. But don't worry about boredom setting in. We've got a variety of activities to keep you engaged, such as table tennis, fencing, boxing, reading, whittling, and games.
+
+Of course, there are risks associated with being at sea, such as the one time I had a slippery ladder incident that left me with cracked ribs on my second trip. But these are rare occurrences, and with the right precautions, you should be safe.
+
+In conclusion, while there are challenges, the benefits far outweigh the drawbacks. This program broadened my horizons and helped me understand the challenges faced by other countries. I hope it does the same for you. I genuinely believe that this experience could open your mind to the world, just as it did for me. So, if you're ready to embark on a journey that combines adventure, personal growth, and the chance to make a difference, I hope to see you aboard!","If I were in Luke Bomberger's shoes, I would passionately advocate for joining the Seagoing Cowboys program. Here's why:
+
+This program offers an exceptional experience that goes beyond just a job. As a Seagoing Cowboy, you're not merely wor",5.407591866649594e-05,0.9999879383855712,1,False,0.9999338624669047
+5524,0,"""A Cowboy Who Rode the Waves""",persuade_corpus,308,2,Rewrite this essay as if a high school student wrote it in their own words.,"If I were Luke Bomberger I would convince people to join the Seagoing Cowboys program.
+
+The reason you should join the Seagoing Cowboys program is because it's such an experince.
+
+When you are doing your job not only are you working, you are helping other people and it gives you that good feeling down inside. As you are doing you rounds or trips or whatever you want to call it is a great opertunity for a young boy or grown man to see alsorts of stuff, like different cultures and different countrys. Another reason is your an animal lover you got yourself a job but remember one thing you do need to be strong and tuff. If you are worried about being board trust me we have loads of stuff to help you pass time some of the stuff includes, Table tennis,fencing,boxing,reading,whittling,and games so you dont half to worried about being bored.
+
+There are some great dangers about being on sea. On my second trip I served as a watchman . My jod was to check on all the animals every hour. One rainy night I was makeing my hourly report to the captin and I slid down the slipery ladder and landed on my back side. I was happey to be alive. The one problem was that I couldn't work for a couple of days because of cracked ribs. You shouldent have that problem.
+
+Well thats realy all I can say. Yes I agree it dose have its downfalls but thers more good things than bad I can personley tell you that. It realy helped me open my mind to the world. It helped me understand the problems other countries were facing and I realy hope it helps you open up your mind. With all my information I hope to see you at sea helping the animals.            ","Title: Why You Should Join the Seagoing Cowboys Program: My Perspective
+
+Hey there! If I could be anyone, I'd be Luke Bomberger and convince you to join the Seagoing Cowboys program. Here's why:
+
+First off, this program offers an extraordinary experience. Not only do you work, but you're also making a difference in people's lives. It's an incredible opportunity for a young person or grown adult to explore diverse cultures and countries. Plus, if you're an animal lover, you'll be in your element! However, it requires strength and toughness.
+
+Now, I know you might worry about being bored, but don't fret! There's plenty to keep you busy, like playing table tennis, fencing, boxing, reading, whittling, and various games. So, you won't have a minute to be bored.
+
+Of course, there are risks involved with being at sea. On my second trip, I served as a watchman, checking on the animals every hour. One rainy night, I slipped on a ladder and landed on my behind. Fortunately, I was alive, but I couldn't work for a few days due to cracked ribs. But I don't think that'll happen to you!
+
+In conclusion, there are challenges, but the benefits outweigh the drawbacks. This program helped me see the world from a different perspective and understand the issues faced by other countries. I sincerely hope it does the same for you. So, if you're ready to help animals and broaden your horizons, I hope to see you at sea!","Title: Why You Should Join the Seagoing Cowboys Program: My Perspective
+
+Hey there! If I could be anyone, I'd be Luke Bomberger and convince you to join the Seagoing Cowboys program. Here's why:
+
+First off, this program offers an extraordin",5.407591866649594e-05,0.9999849455625444,1,False,0.9999308696438779
+22866,0,Distance learning,persuade_corpus,353,1,Rewrite the following essay so it sounds more natural and human-written.,"Some schools offer distance learning as an option for students to attend classes from home by way of online or video conferencing. I believe that is a good option, and students would benefit being able to attend classes from home .Many teenager can have good benefits from taking classes from home. Today many students can not assist to the school because the transportation,or they have appointment that they have to assist.
+
+First, I think that is good option for students to attend classes from home, because some students do not have transportation .For example, i have a friend that she can not study because her way to the school is very long and she do not have transportation and she do not have someone who came take her to the school because her family do not have a car .If she could have the opportunity to have class from home will be a good benefit for her,because she would like to finish her high school.
+
+Also, many student miss classes because they have to work ,or they have appointments and they can not assist to their classes. When students miss classes ,they will be affected latter for their test or quiz .For example, last week i did not went to the school because i have a doctor appointment ,and when i went the next day i was affected because i took a quiz and i did not recover the class that i missed .But if students could take classes online the day that they can not assist to the school will be good because they will be not affected because they will have the opportunity to recover the class.
+
+In conclusion, offer distance learning as an option for students to attend classes from home online or video conference is a good option,because it will give a lot of benefits to many students who can no attend schools. It will be more easy to students who can not assist to their classes and they will no be affected on their grades,because students who miss one day can be affected a lot on their grades.","Title: The Advantages of Distance Learning for Modern Students
+
+In the contemporary educational landscape, many schools are embracing distance learning as an alternative for students to attend classes from the comfort of their homes, utilizing online platforms or video conferencing. I firmly believe that this option can significantly benefit students, particularly teenagers, who face challenges in physically attending school due to transportation issues or prior commitments.
+
+First and foremost, distance learning provides a viable solution for students who lack reliable transportation to school. For instance, I have a friend who struggles to attend school regularly due to a long commute and a lack of transportation. If she had the opportunity to take classes from home, it would greatly enhance her ability to complete her high school education.
+
+Additionally, many students miss classes due to work commitments or appointments, which can adversely affect their academic performance. For example, last week, I missed a day of school due to a doctor's appointment. Upon returning, I found myself at a disadvantage during a quiz because I had missed the material covered during that class. If students were able to take classes online on days they cannot attend school physically, they would be able to recover the missed material, thereby minimizing the impact on their academic performance.
+
+In summary, offering distance learning as an option for students to attend classes online or via video conferencing is a beneficial step for schools to take. This approach would cater to students who are unable to attend school physically, making it easier for them to keep up with their studies and maintain their grades. Students who miss one day of school can suffer significant setbacks, and offering distance learning options can help mitigate this issue, ensuring that students can continue their education uninterrupted.","Title: The Advantages of Distance Learning for Modern Students
+
+In the contemporary educational landscape, many schools are embracing distance learning as an alternative for students to attend classes from the comfort of their homes, utiliz",0.0025531670579487927,0.9999890693278417,1,False,0.9974359022698929
+22866,0,Distance learning,persuade_corpus,353,2,Rewrite this essay as if a high school student wrote it in their own words.,"Some schools offer distance learning as an option for students to attend classes from home by way of online or video conferencing. I believe that is a good option, and students would benefit being able to attend classes from home .Many teenager can have good benefits from taking classes from home. Today many students can not assist to the school because the transportation,or they have appointment that they have to assist.
+
+First, I think that is good option for students to attend classes from home, because some students do not have transportation .For example, i have a friend that she can not study because her way to the school is very long and she do not have transportation and she do not have someone who came take her to the school because her family do not have a car .If she could have the opportunity to have class from home will be a good benefit for her,because she would like to finish her high school.
+
+Also, many student miss classes because they have to work ,or they have appointments and they can not assist to their classes. When students miss classes ,they will be affected latter for their test or quiz .For example, last week i did not went to the school because i have a doctor appointment ,and when i went the next day i was affected because i took a quiz and i did not recover the class that i missed .But if students could take classes online the day that they can not assist to the school will be good because they will be not affected because they will have the opportunity to recover the class.
+
+In conclusion, offer distance learning as an option for students to attend classes from home online or video conference is a good option,because it will give a lot of benefits to many students who can no attend schools. It will be more easy to students who can not assist to their classes and they will no be affected on their grades,because students who miss one day can be affected a lot on their grades.","I think it's awesome that some schools provide distance learning as a way for students to take classes from home through online or video conferencing. Here's why I believe this is a great option for many teenagers:
+
+1. For students without transportation: I've got a friend who can't attend school because her commute is long and she doesn't have a way to get there. If she had the chance to take classes from home, it would be a huge benefit for her since she's determined to finish high school.
+
+2. For students with conflicts: Many students miss school because they have to work or have appointments. When students miss classes, they can struggle later on with tests or quizzes. For example, last week I missed a day of school because I had a doctor's appointment, and when I returned the next day, I found it hard to catch up because I hadn't been in class. If students could take classes online on days they can't make it to school, they would be able to keep up without missing out on important information.
+
+In summary, offering distance learning as an option for students to take classes online or through video conferencing is a great choice because it benefits many students who can't attend school in person. It makes it easier for students who can't attend classes, and they won't miss out on important information that could impact their grades.","I think it's awesome that some schools provide distance learning as a way for students to take classes from home through online or video conferencing. Here's why I believe this is a great option for many teenagers:
+
+1. For students without ",0.0025531670579487927,0.9999897994642301,1,False,0.9974366324062812
+18031,0,Driverless cars,persuade_corpus,394,1,Rewrite the following essay so it sounds more natural and human-written.,"Driverless Cars, good or bad?
+
+Yes, Yes driverless cars always sound like an awesome idea. Everyones dream, but have you thought of possible reprecussions? They say that the car will tell you when oncoming traffic or you are coming up on roadwork, but did they say anything in the article about kids running in front of the car, or even animals? What would stop the car from hitting this animal, or even a CHILD. I think kids are way more important than having a cool vehicle.
+
+They did state that the driver should always have his/her eye on the road but, they were also talking about getting ""in-car entertainment"". I don't know if this sounds like television to you, but it sure does to me. And honestly, who's gonna watch the road if they're watching their favorite show?
+
+They stated in the article that ""we have to interpret driving fun in a new way"". I don't think driving needs to be fun, you get where you are supposed to be and that's that. We do not need cars that'll drive for us. We are already beyond lazy, do they want us to be even lazier? Ameicans will do anything they can for an easy way out of doing something. Even if these cars will make loads of money, they aren't very safe.
+
+The drivers seat is supposed to vibrate when backing out, if somethings in the way. Well what if the driver isn't fast enough to come to the wheel? What if they are too busy trying to pick what show they want to watch?
+
+Let's talk about liability, Someone could easily get out of something because they can blame it on the manufacturer, ""my seat didnt vibrate"", ""my shows didnt turn off"", ""the car didnt notify me"". Do they really wanna get sued because someone lied?
+
+Another thing, what the heck is up with ""having cameras in the car"". What even is privacy? Because, I'm quite sure thats an invasion of it. Out of everything I don't agree with, this is a huge one. They want to spy on people. Not ok.
+
+Now if they come out with these cars and you get one, best of luck to you. but I gave you alot of reasons why the devolpment of these cars shouldn't happen. From the safety of our children, to our privacy. ","Title: The Debate on Autonomous Vehicles: A Cautious Perspective
+
+At first glance, driverless cars might seem like a fantastic innovation, a dream come true for many. However, it's essential to consider the potential implications beyond the allure of a high-tech vehicle.
+
+For instance, the question arises: what about unpredictable factors like children darting across the street or animals crossing the road? The technology might alert us to oncoming traffic or roadwork, but it hasn't been discussed how the car would react to such unexpected obstacles, especially if they're as precious as a child.
+
+The article also mentions the concept of in-car entertainment, which, to me, sounds suspiciously like television. One might wonder who would be watching the road if they're engrossed in their favorite show.
+
+The idea that we must redefine driving as a fun experience is concerning. For me, driving is about reaching one's destination safely and efficiently, not about finding enjoyment in the journey. Are we not already overly reliant on convenience, or are we moving towards an even more sedentary lifestyle with these cars?
+
+Moreover, what if the car's warnings, such as the seat vibrating when reversing, aren't heeded in time? What if the driver is preoccupied with choosing their next program to watch?
+
+Liability is another significant concern. In the event of an accident, it would be easy for someone to shirk responsibility by blaming the manufacturer for faulty equipment or software. Would developers really want to risk lawsuits due to such claims?
+
+The idea of cameras in the car for safety purposes raises privacy concerns. With cameras recording every journey, it feels like an invasion of privacy. This is a point I strongly object to - the idea of being watched is not acceptable.
+
+In conclusion, while autonomous vehicles might offer numerous advantages, there are valid reasons to proceed with caution. From the safety of our children to our privacy, these concerns should be addressed before these cars become a common sight on our roads. If you decide to embrace this technology, I hope you've considered these points. However, I've presented numerous reasons why the development of driverless cars should be approached thoughtfully.","Title: The Debate on Autonomous Vehicles: A Cautious Perspective
+
+At first glance, driverless cars might seem like a fantastic innovation, a dream come true for many. However, it's essential to consider the potential implications beyond the",6.888691734451623e-05,0.9999882998750198,1,False,0.9999194129576753
+18031,0,Driverless cars,persuade_corpus,394,2,Rewrite this essay as if a high school student wrote it in their own words.,"Driverless Cars, good or bad?
+
+Yes, Yes driverless cars always sound like an awesome idea. Everyones dream, but have you thought of possible reprecussions? They say that the car will tell you when oncoming traffic or you are coming up on roadwork, but did they say anything in the article about kids running in front of the car, or even animals? What would stop the car from hitting this animal, or even a CHILD. I think kids are way more important than having a cool vehicle.
+
+They did state that the driver should always have his/her eye on the road but, they were also talking about getting ""in-car entertainment"". I don't know if this sounds like television to you, but it sure does to me. And honestly, who's gonna watch the road if they're watching their favorite show?
+
+They stated in the article that ""we have to interpret driving fun in a new way"". I don't think driving needs to be fun, you get where you are supposed to be and that's that. We do not need cars that'll drive for us. We are already beyond lazy, do they want us to be even lazier? Ameicans will do anything they can for an easy way out of doing something. Even if these cars will make loads of money, they aren't very safe.
+
+The drivers seat is supposed to vibrate when backing out, if somethings in the way. Well what if the driver isn't fast enough to come to the wheel? What if they are too busy trying to pick what show they want to watch?
+
+Let's talk about liability, Someone could easily get out of something because they can blame it on the manufacturer, ""my seat didnt vibrate"", ""my shows didnt turn off"", ""the car didnt notify me"". Do they really wanna get sued because someone lied?
+
+Another thing, what the heck is up with ""having cameras in the car"". What even is privacy? Because, I'm quite sure thats an invasion of it. Out of everything I don't agree with, this is a huge one. They want to spy on people. Not ok.
+
+Now if they come out with these cars and you get one, best of luck to you. but I gave you alot of reasons why the devolpment of these cars shouldn't happen. From the safety of our children, to our privacy. ","Title: Should We Embrace Driverless Cars? A High School Student's Perspective
+
+Hey there! So, driverless cars sound super cool, right? But have you ever thought about the potential issues? Sure, they might alert us about oncoming traffic or roadwork, but what about kids darting out in front of the car or animals crossing the road? What's stopping the car from hitting them? I believe our kids are way more important than having a fancy vehicle.
+
+They mentioned that the driver should always keep an eye on the road, but they also talked about in-car entertainment. To me, that sounds like TV, and if people are busy watching their favorite shows, who's going to focus on the road?
+
+They said that we need to redefine what driving fun means. I don't think driving needs to be fun; we just get from point A to B. Do we really need cars that drive for us? I worry that we're becoming too lazy, and these cars might make us even lazier. Americans love an easy way out, even if it's not always the safest option.
+
+The seat vibrating when backing out is supposed to alert us if something's in the way, but what if we're too slow to react? What if we're too busy choosing a show?
+
+Let's talk about liability. If something goes wrong, someone could easily blame the manufacturer, saying their seat didn't vibrate, their shows didn't turn off, or the car didn't notify them. Do they really want to risk getting sued because someone lied?
+
+Another problem is the cameras in the car. I'm all for safety, but isn't that an invasion of privacy? I mean, I'm not comfortable with the idea of being spied on. That's a big no for me.
+
+If these cars get developed and you decide to get one, good luck to you. But I've given you plenty of reasons why the development of these cars might not be a good idea. From the safety of our kids to our privacy, there are many concerns to consider.","Title: Should We Embrace Driverless Cars? A High School Student's Perspective
+
+Hey there! So, driverless cars sound super cool, right? But have you ever thought about the potential issues? Sure, they might alert us about oncoming traffic or",6.888691734451623e-05,0.999985192730983,1,False,0.9999163058136384
+1796,0,Car-free cities,persuade_corpus,442,1,Rewrite the following essay so it sounds more natural and human-written.,"Limiting car usage nowadays is very well for the enviroment. Not using cars so much lowers polution, and is a great way for humans to start interacting with one-another again.
+
+The ""Car-Free cities"" started in the suburbs of Germany. Almost everyone completely gave up their cars. P2 L1-2 states that stret parking and drivewats and home garages are generally forbidden. If you are not completely car-free you pay $40,000 to buy space to park you car(s) along with a home.
+
+Statistics say that 70 percent of families d not own cars anymore, and 57 percent actually sold their cars to move to Germany. Heidrun Wlter stated ""When I had a car I was always tense. I'm much happier this way"".
+
+In Paris, due to near-record pollution, they enforced a partial driving ban to clear the air of the global city.
+
+On certain days motorists with even-numbered license plates were ordered to leave their cars at home or suffer a $31 fine. the other days same rules apply to odd-numbered license plate owners.
+
+The more cities that start doing a ban on driving cars' or use more enviroment healthy cars are helping reduce pollution and other toxins in the air. p43 states that the Ford company is already making changes to their cars/trucks to make them more enviromentally safe.
+
+The rate of Kids and aduts between the ages of 16-39 getting their licenes and permits have dropped drastically within the past few years. With communication the computers and telephones, teens and alduts feel connected by talking on these devices and don't feel the need as much to drive to go see a friend and find it easier to stay intouch.
+
+In Bogota, Colombia millians of people hike, bike, skate or took buses to work durin a car-free day. It was the third year that cars have been banned with only buses and taxis permitted for the Day Wihout Cars in the city. The turnout was large, despite the occasional rain they ecieved, that didnt stop the colombians for doing what they did.  ""It's a good opportunity to take away stress and lower air pollution"" said Carlos Arturo Plaza. Two other Colobian cities, Cali and Valledupar, joined the Day Without Cars event. The citites are generation a revolutionary change in the world.
+
+Parks and sports centers have bloomed throught the city, sidewalks have been repaired and rush-hour has been cut.
+
+The United states' has realized a drastic change in driving. Fewer people are getting their licenses. as of 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in 1995 (P32 L9-12).    ","Today, minimizing car usage is increasingly beneficial for our environment. Reducing car usage decreases pollution and encourages social interaction among people.
+
+The concept of ""Car-Free cities"" initially emerged in the suburbs of Germany, where the majority of residents willingly relinquished their vehicles. As stated in P2 L1-2, parking spaces and driveways, as well as home garages, are generally forbidden. If one is not entirely car-free, they must pay a hefty $40,000 for the privilege to park their vehicle(s) along with their home.
+
+Statistically, 70 percent of families no longer own cars, and 57 percent even sold their cars to relocate to Germany. Heidrun Wlter remarked, ""When I had a car, I was always tense. I'm much happier this way.""
+
+In Paris, due to near-record pollution levels, a partial driving ban was enforced to purify the air of this global city. On certain days, motorists with even-numbered license plates were ordered to leave their cars at home or face a $31 fine. The opposite rules applied on other days for odd-numbered license plate owners.
+
+As more cities implement driving bans or promote eco-friendlier vehicles, they contribute to reducing pollution and other toxins in the air. P43 indicates that Ford is already making adjustments to their vehicles to make them more environmentally safe.
+
+The rate of teenagers and adults aged 16-39 obtaining their licenses and permits has significantly decreased over the past few years. With the advent of communication through computers and smartphones, teens and adults feel connected by talking on these devices and find it less necessary to drive to meet friends. It's easier to stay in touch this way.
+
+In Bogota, Colombia, millions of people walk, bike, skate, or take buses to work during a car-free day. It marked the third year that cars were banned, with only buses and taxis permitted for the Day Without Cars in the city. Despite occasional rain, the Colombians persisted in their actions. Carlos Arturo Plaza stated, ""It's a good opportunity to take away stress and lower air pollution."" Two other Colombian cities, Cali and Valledupar, joined the Day Without Cars event. These cities are generating","Today, minimizing car usage is increasingly beneficial for our environment. Reducing car usage decreases pollution and encourages social interaction among people.
+
+The concept of ""Car-Free cities"" initially emerged in the suburbs of Germany",2.8538685172927266e-05,0.7818487516647887,1,False,0.7818202129796158
+1796,0,Car-free cities,persuade_corpus,442,2,Rewrite this essay as if a high school student wrote it in their own words.,"Limiting car usage nowadays is very well for the enviroment. Not using cars so much lowers polution, and is a great way for humans to start interacting with one-another again.
+
+The ""Car-Free cities"" started in the suburbs of Germany. Almost everyone completely gave up their cars. P2 L1-2 states that stret parking and drivewats and home garages are generally forbidden. If you are not completely car-free you pay $40,000 to buy space to park you car(s) along with a home.
+
+Statistics say that 70 percent of families d not own cars anymore, and 57 percent actually sold their cars to move to Germany. Heidrun Wlter stated ""When I had a car I was always tense. I'm much happier this way"".
+
+In Paris, due to near-record pollution, they enforced a partial driving ban to clear the air of the global city.
+
+On certain days motorists with even-numbered license plates were ordered to leave their cars at home or suffer a $31 fine. the other days same rules apply to odd-numbered license plate owners.
+
+The more cities that start doing a ban on driving cars' or use more enviroment healthy cars are helping reduce pollution and other toxins in the air. p43 states that the Ford company is already making changes to their cars/trucks to make them more enviromentally safe.
+
+The rate of Kids and aduts between the ages of 16-39 getting their licenes and permits have dropped drastically within the past few years. With communication the computers and telephones, teens and alduts feel connected by talking on these devices and don't feel the need as much to drive to go see a friend and find it easier to stay intouch.
+
+In Bogota, Colombia millians of people hike, bike, skate or took buses to work durin a car-free day. It was the third year that cars have been banned with only buses and taxis permitted for the Day Wihout Cars in the city. The turnout was large, despite the occasional rain they ecieved, that didnt stop the colombians for doing what they did.  ""It's a good opportunity to take away stress and lower air pollution"" said Carlos Arturo Plaza. Two other Colobian cities, Cali and Valledupar, joined the Day Without Cars event. The citites are generation a revolutionary change in the world.
+
+Parks and sports centers have bloomed throught the city, sidewalks have been repaired and rush-hour has been cut.
+
+The United states' has realized a drastic change in driving. Fewer people are getting their licenses. as of 2013, the number of miles driven per person was nearly 9 percent below the peak and equal to where the country was in 1995 (P32 L9-12).    ","Hey there! Here's a rewrite of your essay in a more casual, high school student-like style:
+
+Going car-free is pretty awesome for the environment these days. Less car usage means less pollution, and it's a cool way for us to reconnect with each other.
+
+""Car-free cities"" started popping up in the suburbs of Germany. Nearly everyone ditched their cars, and parking spots and home garages are usually off-limits. If you're not fully car-free, you have to shell out around $40,000 to buy a spot to park your car(s) along with your home.
+
+According to stats, around 70 percent of families don't own cars anymore, and 57 percent even sold their cars to move to Germany. Heidrun Wlter said, ""When I had a car, I was always stressed. I'm much happier this way.""
+
+In Paris, due to super high pollution levels, they implemented a partial driving ban to clean up the air in the global city. On certain days, motorists with even-numbered license plates had to leave their cars at home or face a $31 fine. The other days, the same rules apply to odd-numbered license plate owners.
+
+As more cities adopt a car ban or switch to eco-friendly cars, they're helping to reduce pollution and other toxins in the air. P43 also mentions that Ford is already making changes to their cars and trucks to make them more environmentally friendly.
+
+The number of teens and adults between the ages of 16-39 getting their licenses and permits has dropped significantly in recent years. With all the communication we do through computers and phones, it's easier to stay in touch with friends and feel less of a need to drive.
+
+In Bogota, Colombia, millions of people walked, biked, skated, or took buses to work during a car-free day. It was the third year they banned cars, with only buses and taxis allowed. Despite occasional rain, Colombians kept going because, as Carlos Arturo Plaza said, ""It's a great opportunity to take away stress and lower air pollution."" Two other Colombian cities, Cali and Valledupar, joined the Day Without Cars event. The cities are making a revolutionary change","Hey there! Here's a rewrite of your essay in a more casual, high school student-like style:
+
+Going car-free is pretty awesome for the environment these days. Less car usage means less pollution, and it's a cool way for us to reconnect with ",2.8538685172927266e-05,0.9399714047730604,1,False,0.9399428660878875
+42543,0,Car-free cities,train_essays,500,1,Rewrite the following essay so it sounds more natural and human-written.,"There are many advantages of limiting car usage. Using cars less reduces pollution, stress, money spent on gas, and it also brings people together.
+
+When people give up using cars they seem generally happier. Heidrun Walter states in In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal, ""When I had a car I was always tense. I'm much happier this way,"" The community of Vauban is a closer community because they don't use cars. They have to walk everywhere so they're talking more with their fellow neighbors. People are creating stronger relationships with the people in their community which creates trust. Strangers are now becoming friends. Businesses are popping up in every corner. The economy is probably up as well as their happiness. The suburb of Vauban may only have 5,500 residents but those 5,500 people surely are more excited to start and continue their life than cities where people are constantly using cars and not talking to each other.
+
+Cars cause so much pollution that huge cities, like Paris, have to have a partial driving ban to clear the air. Paris ordered vehicle users to leave their car at home on a certain day if they had an evennumbered license plate. Car pollution are ruining beautiful cities like Paris and Beijing. The warm days of Paris caused the warmer layer of air to trap car emissions according to Paris bans driving due to smog by Robert Duffer. By just not using cars for one day the smog cleared enough so the oddnumbered license plate users didn't have to leave their cars at home. Imagine if cars were banned once a week Paris and other cities might actually be able to breathe fresh air.
+
+Bogota, Colombia is having an annual Day Without Cars, the only exception being buses and taxis according to Carfree day is spinning into a big hit in Bogota by Andrew Selsky. Columbians have stated that the day takes away stress as well as the obvious air pollution. Car traffic is decreased which would obviously decrease car accidents. Without using cars, people don't have the stress of having to pay for gas or if they're car breaks down. They can ride a bike and enjoy being outside instead of being in a mobile machine all day.
+
+Research shows Americans are generally buying less cars each years. This is great news for America seeing as transportation is second largest source of America's emissions says The End of Car Culture by Elisabeth Rosenthal. The telecommunications industry is higher now because people can communicate online rather than driving to see their friend. The younger generation is not using cars as much because cars aren't a priority anymore. They can use public transportation or walk to the places they need to go.
+
+There are many reasons why cars shouldn't be used. This is a gradual revolution because people aren't going to stop using their cars out of the blue. People must see the many benefits of not using cars.","Title: The Benefits of Reducing Car Dependency: A Closer Look at Car-Free Communities and Cities
+
+The decision to limit car usage offers a multitude of advantages that extend beyond environmental considerations. By driving less, we not only reduce pollution, save on fuel costs, and alleviate stress, but we also foster stronger community ties and connections.
+
+In the case of Vauban, a car-free suburb in Germany, the absence of cars has transformed the community into a closer-knit, more communicative neighborhood. As Heidrun Walter notes in Elisabeth Rosenthal's article, ""In German Suburb, Life Goes On Without Cars,"" she found herself ""much happier"" without a car, attributing this to the increased interaction with her neighbors as a result of walking everywhere. This increased communication leads to stronger relationships and a sense of trust, with strangers becoming friends and local businesses thriving. Although Vauban boasts a relatively small population of 5,500, its residents seem to enjoy a higher quality of life compared to those in cities where car usage is prevalent and interpersonal connections are often overlooked.
+
+One of the most pressing issues associated with car usage is the pollution it generates. Cities like Paris have implemented partial driving bans to combat the smog caused by automobile emissions. In an effort to improve air quality, Parisian drivers with even-numbered license plates were required to leave their cars at home on certain days. The temporary reduction in car usage led to a noticeable improvement in air quality, demonstrating the potential for more significant changes if car usage were limited more frequently. Other cities, such as Bogota, Colombia, have even implemented annual ""Day Without Cars"" events, where car usage is restricted to buses and taxis, to reduce air pollution and alleviate traffic congestion.
+
+In addition to the environmental benefits, limiting car usage also offers personal advantages. By choosing to walk, bike, or use public transportation, individuals can reduce the stress associated with car ownership, such as the worry of car maintenance, fuel costs, and the potential for accidents. Furthermore, a shift away from car culture is already underway in the United States, with Americans purchasing fewer cars each year. The telecommunications industry has grown as people turn to digital means of communication, and the younger generation is increasingly opting for alternative modes of transportation, such as public transit","Title: The Benefits of Reducing Car Dependency: A Closer Look at Car-Free Communities and Cities
+
+The decision to limit car usage offers a multitude of advantages that extend beyond environmental considerations. By driving less, we not only",3.8128187723219786e-05,0.999991049311859,1,False,0.9999529211241358
+42543,0,Car-free cities,train_essays,500,2,Rewrite this essay as if a high school student wrote it in their own words.,"There are many advantages of limiting car usage. Using cars less reduces pollution, stress, money spent on gas, and it also brings people together.
+
+When people give up using cars they seem generally happier. Heidrun Walter states in In German Suburb, Life Goes On Without Cars by Elisabeth Rosenthal, ""When I had a car I was always tense. I'm much happier this way,"" The community of Vauban is a closer community because they don't use cars. They have to walk everywhere so they're talking more with their fellow neighbors. People are creating stronger relationships with the people in their community which creates trust. Strangers are now becoming friends. Businesses are popping up in every corner. The economy is probably up as well as their happiness. The suburb of Vauban may only have 5,500 residents but those 5,500 people surely are more excited to start and continue their life than cities where people are constantly using cars and not talking to each other.
+
+Cars cause so much pollution that huge cities, like Paris, have to have a partial driving ban to clear the air. Paris ordered vehicle users to leave their car at home on a certain day if they had an evennumbered license plate. Car pollution are ruining beautiful cities like Paris and Beijing. The warm days of Paris caused the warmer layer of air to trap car emissions according to Paris bans driving due to smog by Robert Duffer. By just not using cars for one day the smog cleared enough so the oddnumbered license plate users didn't have to leave their cars at home. Imagine if cars were banned once a week Paris and other cities might actually be able to breathe fresh air.
+
+Bogota, Colombia is having an annual Day Without Cars, the only exception being buses and taxis according to Carfree day is spinning into a big hit in Bogota by Andrew Selsky. Columbians have stated that the day takes away stress as well as the obvious air pollution. Car traffic is decreased which would obviously decrease car accidents. Without using cars, people don't have the stress of having to pay for gas or if they're car breaks down. They can ride a bike and enjoy being outside instead of being in a mobile machine all day.
+
+Research shows Americans are generally buying less cars each years. This is great news for America seeing as transportation is second largest source of America's emissions says The End of Car Culture by Elisabeth Rosenthal. The telecommunications industry is higher now because people can communicate online rather than driving to see their friend. The younger generation is not using cars as much because cars aren't a priority anymore. They can use public transportation or walk to the places they need to go.
+
+There are many reasons why cars shouldn't be used. This is a gradual revolution because people aren't going to stop using their cars out of the blue. People must see the many benefits of not using cars.","Hey there! So, here's my take on rewriting this essay as if a high school student wrote it:
+
+Title: The Perks of Reducing Car Usage
+
+Hey, folks! In this essay, I'm gonna talk about the advantages of using cars less. By driving less, we can reduce pollution, stress, and expenses on gas, while also bringing people closer together.
+
+First off, when people stop using cars, they seem to be a whole lot happier. As Heidrun Walter points out in Elisabeth Rosenthal's article, In German Suburb, Life Goes On Without Cars, ""When I had a car, I was always tense. I'm much happier this way."" The community of Vauban is a prime example of this - since they don't rely on cars, they have to walk everywhere, which means they're chatting more with their neighbors. As a result, they're building stronger relationships and trust within the community, turning strangers into friends. Plus, businesses are popping up everywhere, which could mean a boost for the local economy. So, while Vauban may only have 5,500 residents, they're probably enjoying life more than city-dwellers who are constantly stuck in traffic and not making connections with each other.
+
+Now, let's talk about the environmental impact of cars. Big cities like Paris have to implement partial driving bans to combat the pollution caused by cars. In Paris, drivers with even-numbered license plates were ordered to leave their cars at home on certain days to help clear the air. Car emissions are a major contributor to air pollution, ruining the beauty of cities like Paris and Beijing. In fact, according to Paris bans driving due to smog by Robert Duffer, the warmer days in Paris cause a layer of air to trap car emissions, making the problem even worse. By simply not driving for one day, the smog cleared up enough that odd-numbered license plate users didn't have to leave their cars at home. Imagine if cars were banned once a week - Paris and other cities might actually be able to breathe fresh air!
+
+Another city making strides in reducing car usage is Bogota, Colombia, which hosts an annual Day Without Cars. The only exceptions are buses and taxis. Columbians have reported that the day helps reduce stress and air pollution, and it decreases","Hey there! So, here's my take on rewriting this essay as if a high school student wrote it:
+
+Title: The Perks of Reducing Car Usage
+
+Hey, folks! In this essay, I'm gonna talk about the advantages of using cars less. By driving less, we can ",3.8128187723219786e-05,0.9999899646344047,1,False,0.9999518364466815

@@ -344,15 +344,31 @@ def plot_training_history(log_history: list[dict[str, Any]], output_path: str | 
     plt.close()
 
 
-def select_human_attack_samples(val_df: pd.DataFrame, num_samples: int) -> pd.DataFrame:
+def select_human_attack_samples(
+    val_df: pd.DataFrame,
+    num_samples: int,
+    min_words: int | None = None,
+    max_words: int | None = None,
+) -> pd.DataFrame:
     human_df = add_text_features(val_df[val_df["label"] == 0].copy())
     if human_df.empty:
         raise ValueError("Validation split does not contain any human-written essays.")
 
-    human_df = human_df.sort_values(["word_count", "row_id"]).reset_index(drop=True)
-    if len(human_df) <= num_samples:
-        return human_df.reset_index(drop=True)
+    if min_words is not None:
+        human_df = human_df.loc[human_df["word_count"] >= min_words].copy()
+    if max_words is not None:
+        human_df = human_df.loc[human_df["word_count"] <= max_words].copy()
+    if human_df.empty:
+        raise ValueError(
+            "No human-written essays remain after applying the word-count filter."
+        )
+    if len(human_df) < num_samples:
+        raise ValueError(
+            f"Only {len(human_df)} eligible human essays are available, "
+            f"but {num_samples} were requested."
+        )
 
+    human_df = human_df.sort_values(["word_count", "row_id"]).reset_index(drop=True)
     positions = np.linspace(0, len(human_df) - 1, num=num_samples, dtype=int)
     unique_positions = sorted(set(int(position) for position in positions))
     selected = human_df.iloc[unique_positions].copy().reset_index(drop=True)

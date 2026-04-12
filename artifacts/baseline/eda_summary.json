@@ -1,0 +1,76 @@
+{
+  "num_rows": 44868,
+  "columns": [
+    "text",
+    "label",
+    "prompt_name",
+    "source",
+    "RDizzl3_seven",
+    "row_id",
+    "char_count",
+    "word_count",
+    "unique_word_count",
+    "type_token_ratio"
+  ],
+  "label_counts": {
+    "0": 27371,
+    "1": 17497
+  },
+  "prompt_count": 15,
+  "source_count": 17,
+  "char_count": {
+    "count": 44868,
+    "mean": 2216.2229,
+    "median": 2044.0,
+    "min": 48.0,
+    "max": 18322.0
+  },
+  "word_count": {
+    "count": 44868,
+    "mean": 383.6213,
+    "median": 352.0,
+    "min": 4.0,
+    "max": 1656.0
+  },
+  "unique_word_count": {
+    "count": 44868,
+    "mean": 179.8756,
+    "median": 169.0,
+    "min": 4.0,
+    "max": 670.0
+  },
+  "type_token_ratio": {
+    "count": 44868,
+    "mean": 0.4909,
+    "median": 0.4858,
+    "min": 0.055,
+    "max": 1.0
+  },
+  "whitespace_tokens_gt_512": 7643,
+  "whitespace_tokens_gt_512_ratio": 0.1703,
+  "by_label": [
+    {
+      "label": 0,
+      "samples": 27371,
+      "char_count_mean": 2348.5039,
+      "word_count_mean": 418.2831,
+      "unique_word_count_mean": 190.6752,
+      "type_token_ratio_mean": 0.4785
+    },
+    {
+      "label": 1,
+      "samples": 17497,
+      "char_count_mean": 2009.2925,
+      "word_count_mean": 329.399,
+      "unique_word_count_mean": 162.9814,
+      "type_token_ratio_mean": 0.5104
+    }
+  ],
+  "split": {
+    "seed": 42,
+    "test_size": 0.2,
+    "stratify_strategy": "label_prompt",
+    "train_rows": 35894,
+    "val_rows": 8974
+  }
+}

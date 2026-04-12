@@ -1,0 +1,18 @@
+{
+  "train_runtime": 91000.9278,
+  "train_samples_per_second": 1.183,
+  "train_steps_per_second": 0.018,
+  "total_flos": 1.003522330658857e+17,
+  "train_loss": 0.06807639500523563,
+  "init_mem_cpu_alloc_delta": -1273856.0,
+  "init_mem_gpu_alloc_delta": 1335104000.0,
+  "init_mem_cpu_peaked_delta": 1334325248.0,
+  "init_mem_gpu_peaked_delta": 0.0,
+  "train_mem_cpu_alloc_delta": 731475968.0,
+  "train_mem_gpu_alloc_delta": 2686942208.0,
+  "train_mem_cpu_peaked_delta": 1337802752.0,
+  "train_mem_gpu_peaked_delta": 19681786880.0,
+  "before_init_mem_cpu": 1513943040.0,
+  "before_init_mem_gpu": 0.0,
+  "epoch": 3.0
+}
